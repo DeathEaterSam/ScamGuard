@@ -1,0 +1,371 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.12)  7 AUG 2024 17:34
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Sam/Desktop/freeCodeCamp Machine Learning with Python/ScamGuard/Report/scamguard.tex"
+(c:/Users/Sam/Desktop/freeCodeCamp Machine Learning with Python/ScamGuard/Report/scamguard.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+(C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (acl2015.sty
+Conference Style for ACL 2015 -- released December 7, 2014
+\titlebox=\skip50
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count194
+\lst@gtempboxa=\box51
+\lst@token=\toks18
+\lst@length=\count195
+\lst@currlwidth=\dimen143
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen144
+\lst@width=\dimen145
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen146
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
+\lst@framebox=\box52
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count268
+\mult@box=\box53
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count269
+\c@collectmore=\count270
+\doublecol@number=\count271
+\multicoltolerance=\count272
+\multicolpretolerance=\count273
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box54
+\last@line=\box55
+\mc@boxedresult=\box56
+\maxbalancingoverflow=\dimen152
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@firstbox=\box59
+\mult@gfirstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count274
+\c@columnbadness=\count275
+\c@finalcolumnbadness=\count276
+\last@try=\dimen153
+\multicolovershoot=\dimen154
+\multicolundershoot=\dimen155
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count277
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+
+Package Listings Warning: Unknown column format `fullflexible frame' on input line 35.
+
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 54.
+(C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count278
+\l__pdf_internal_box=\box99
+) (scamguard.aux)
+\openout1 = `scamguard.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count279
+\scratchdimen=\dimen156
+\scratchbox=\box100
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen157
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks20
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count285
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 55.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 55.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 55.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 55.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+
+Underfull \hbox (badness 1275) in paragraph at lines 77--78
+[]\OT1/ptm/m/n/10.95 We tested the per-for-mance of whisper-base
+ []
+
+[1{C:/Users/Sam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+
+]
+Underfull \hbox (badness 5939) in paragraph at lines 89--90
+[]\OT1/ptm/b/n/10.95 Llama 3-70B \OT1/ptm/m/n/10.95 is an open-source auto-
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 89--90
+\OT1/ptm/m/n/10.95 regressive lan-guage model with an op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+[]\OT1/ptm/b/n/10.95 Phi-2 \OT1/ptm/m/n/10.95 is an open-source, 2.7 billion-
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 91--92
+\OT1/ptm/m/n/10.95 parameter Trans-former trained with data
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 91--92
+\OT1/ptm/m/n/10.95 thetic NLP texts and care-fully fil-tered
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]\OT1/ptm/b/n/10.95 OLMo-7B-instruct \OT1/ptm/m/n/10.95 is open-source and
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 95--96
+\OT1/ptm/m/n/10.95 lever-ages the Allen AI's Dolma dataset,
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 97--98
+[]\OT1/ptm/b/n/10.95 Gemma-7B \OT1/ptm/m/n/10.95 is a fam-ily of lightweight,
+ []
+
+[2]
+<flowchart.png, id=13, 500.87125pt x 303.1325pt>
+File: flowchart.png Graphic file (type png)
+<use flowchart.png>
+Package pdftex.def Info: flowchart.png  used on input line 113.
+(pdftex.def)             Requested size: 364.19664pt x 220.42456pt.
+ (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+Underfull \hbox (badness 1406) in paragraph at lines 149--150
+\OT1/ptm/m/n/10.95 This com-mand will start app for you in the
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 152.
+(C:\Users\Sam\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<prompt.png, id=15, 1007.765pt x 669.50125pt>
+File: prompt.png Graphic file (type png)
+<use prompt.png>
+Package pdftex.def Info: prompt.png  used on input line 161.
+(pdftex.def)             Requested size: 503.88127pt x 334.7498pt.
+
+Overfull \hbox (48.63719pt too wide) in paragraph at lines 161--162
+ [][] 
+ []
+
+<gemini_prompt.png, id=16, 554.07pt x 367.3725pt>
+File: gemini_prompt.png Graphic file (type png)
+<use gemini_prompt.png>
+Package pdftex.def Info: gemini_prompt.png  used on input line 168.
+(pdftex.def)             Requested size: 415.55148pt x 275.52869pt.
+<gpt.png, id=17, 1690.06406pt x 1194.71344pt>
+File: gpt.png Graphic file (type png)
+<use gpt.png>
+Package pdftex.def Info: gpt.png  used on input line 175.
+(pdftex.def)             Requested size: 338.00682pt x 238.93846pt.
+<gpt_urdu.png, id=18, 1690.06406pt x 1194.71344pt>
+File: gpt_urdu.png Graphic file (type png)
+<use gpt_urdu.png>
+Package pdftex.def Info: gpt_urdu.png  used on input line 181.
+(pdftex.def)             Requested size: 364.19664pt x 257.44174pt.
+<gemini.png, id=19, 840.13875pt x 358.33875pt>
+File: gemini.png Graphic file (type png)
+<use gemini.png>
+Package pdftex.def Info: gemini.png  used on input line 188.
+(pdftex.def)             Requested size: 364.19664pt x 155.34026pt.
+[3]
+Underfull \hbox (badness 1394) in paragraph at lines 203--204
+[]\OT1/ptm/b/it/10.95 How could you have reme-died what went
+ []
+
+<demo.png, id=23, 585.18625pt x 480.79625pt>
+File: demo.png Graphic file (type png)
+<use demo.png>
+Package pdftex.def Info: demo.png  used on input line 210.
+(pdftex.def)             Requested size: 364.19664pt x 299.24239pt.
+
+Underfull \hbox (badness 1975) in paragraph at lines 227--231
+[]\OT1/ptm/m/n/10 Takashi Koide, et al.  2024.  \OT1/ptm/m/it/10 ChatSpamDe-tec-
+ []
+
+[4 <./flowchart.png>] [5 <./prompt.png> <./gemini_prompt.png>] [6 <./gpt.png> <./gpt_urdu.png>] [7 <./gemini.png> <./demo.png>] (scamguard.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+ ***********
+ )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 203 ({)
+### simple group (level 2) entered at line 199 ({)
+### simple group (level 1) entered at line 197 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 4099 strings out of 474592
+ 61025 string characters out of 5746742
+ 1990533 words of memory out of 5000000
+ 26242 multiletter control sequences out of 15000+600000
+ 576436 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,10n,65p,1026b,1176s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on scamguard.pdf (7 pages, 2527528 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
