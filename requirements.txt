@@ -1,0 +1,3 @@
+pip install google-generativeai
+pip install together 
+pip install dotenv (for the keys environment variable)
